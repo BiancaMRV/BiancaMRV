@@ -1,4 +1,4 @@
-## 💜 Hello! I'm Bianca Vilaverde 💜                                                          
+## 💜 Hello! I'm Bianca 💜                                                          
            
 
 I'm a front-end enthusiast passionate about building dynamic and responsive web applications.
