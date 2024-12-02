@@ -1,11 +1,11 @@
 ## 💜 Hello! I'm Bianca 💜                                                          
            
 
-I'm a front-end enthusiast passionate about building dynamic and responsive web applications.
+I'm a Full Stack enthusiast passionate about building dynamic and responsive web applications.
 
 ### 👀 I’m interested in:
 - Front-end development with **React.js** and **JavaScript**
-- Learning **MVC architecture** with **Node.js** and **Express.js**
+- Learning **MVC architecture** and Back-end development with **Node.js** and **Express.js**
 - Database management with **PostgreSQL**
 - Building full-stack applications with **Node.js** 
 
