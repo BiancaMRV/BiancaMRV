@@ -1,4 +1,4 @@
-## 💜 Hello! I'm Bianca 💜                                                          
+## 🧚‍♀️ 💜 Hello! I'm Bianca 💜 🧚‍♀️                                                         
            
 I'm a Full Stack Developer with a passion for creating modern, responsive, and user-friendly web applications.
 
@@ -19,7 +19,7 @@ I'm a Full Stack Developer with a passion for creating modern, responsive, and u
 ### 💼 My tech stack:
 - **Frontend**: React, Tailwind CSS, JavaScript, HTML5/CSS3
 - **Backend**: Node.js, Express, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Figma, Postman
+- **Tools**: Git, GitHub, VS Code, Chart.Js
 
 <div align="center">
   
@@ -34,7 +34,6 @@ I'm a Full Stack Developer with a passion for creating modern, responsive, and u
 ### 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/bianca-vilaverde-001177331)
 - [GitHub](https://github.com/biancavilaverde)
-- Email: bianca.dev@example.com
 
 ![Animated developer coding](https://github.com/user-attachments/assets/7f688a88-59bc-4104-88e1-371126f900cf)
 
