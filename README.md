@@ -1,6 +1,6 @@
 ## 🧚‍♀️ 💜 Hello! I'm Bianca 💜 🧚‍♀️                                                         
            
-I'm a Full Stack Developer with a passion for creating modern, responsive, and user-friendly web applications.
+As a full-stack developer in constant growth, I strive to craft intuitive digital journeys by mastering both the art of what users see and the science of what powers it. Every line of code is part of my learning path toward creating more seamless and impactful web experiences.
 
 ### 👀 I'm interested in:
 - Front-end development with **React.js** and **Tailwind CSS**
