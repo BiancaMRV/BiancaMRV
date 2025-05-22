@@ -33,7 +33,7 @@ As a full-stack developer in constant growth, I strive to craft intuitive digita
 
 ### 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/bianca-vilaverde-001177331)
-- [GitHub](https://github.com/biancavilaverde)
+
 
 ![Animated developer coding](https://github.com/user-attachments/assets/7f688a88-59bc-4104-88e1-371126f900cf)
 
