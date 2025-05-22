@@ -1,4 +1,4 @@
-## 🧚‍♀️ 💜 Hello! I'm Bianca 💜 🧚‍♀️                                                         
+##  💜 Hello! I'm Bianca 💜                                                          
            
 As a full-stack developer in constant growth, I strive to craft intuitive digital journeys by mastering both the art of what users see and the science of what powers it. Every line of code is part of my learning path toward creating more seamless and impactful web experiences.
 
