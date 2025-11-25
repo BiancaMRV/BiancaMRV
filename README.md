@@ -13,10 +13,6 @@ Software Developer at **Profimetrics / ITIM Group** with a passion (almost an ob
 Always coding, always learning 🚀
 
 Open to collaboration and always eager to learn from the developer community.
-
----
-
-Open to collaboration and always eager to learn from the developer community.
   
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
