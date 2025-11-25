@@ -2,7 +2,7 @@
 
 Full-stack developer focused on building seamless digital experiences through clean code and thoughtful architecture.
 
-Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable web applications.
+Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable software applications.
 
 ## What I do
 
