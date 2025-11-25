@@ -1,27 +1,37 @@
-##  💜 Hello! I'm Bianca 💜                                                          
-           
-As a full-stack developer in constant growth, I strive to craft intuitive digital journeys by mastering both the art of what users see and the science of what powers it. Every line of code is part of my learning path toward creating more seamless and impactful web experiences.
+# 💜 Hey! I'm Bianca
 
-### 👀 I'm interested in:
-- Front-end development with **React.js** and **Tailwind CSS**
-- Building responsive UI with **Tailwind's utility-first approach**
-- Back-end development with **Node.js** and **Express.js**
-- **RESTful API** development and integration
-- Database management with **PostgreSQL**
+Full-stack developer focused on building seamless digital experiences through clean code and thoughtful architecture.
 
-### 🌱 I'm currently learning:
-- Advanced **Tailwind CSS** techniques for responsive design
-- Component-based architecture with **React**
-- State management patterns in **JavaScript** applications
-- Building full-stack applications with **PERN stack** (PostgreSQL, Express, React, Node.js)
-- Optimizing application performance and user experience
+Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable web applications.
 
-### 💼 My tech stack:
-- **Frontend**: React, Tailwind CSS, JavaScript, HTML5/CSS3
-- **Backend**: Node.js, Express, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Chart.Js
+## What I do
 
-<div align="center">
+**Frontend Development**  
+Building responsive and intuitive user interfaces with React and Angular. I specialize in component-based architecture and leverage Tailwind CSS for efficient, maintainable styling. My focus is on creating interfaces that are both visually appealing and performant.
+
+**Backend Development**  
+Developing RESTful APIs using Node.js and Express. I design and implement server-side logic with emphasis on scalability, proper error handling, and maintainable code structure. Experience in building secure authentication systems and data validation layers.
+
+**Database Management**  
+Working extensively with PostgreSQL for data modeling, query optimization, and database design. Experienced in designing efficient schemas, writing complex queries, and handling database migrations for production environments.
+
+## Currently expanding my skillset
+
+- Deepening my expertise in Angular framework and advanced TypeScript patterns
+- Exploring advanced state management solutions
+- Improving database optimization and indexing strategies
+- Learning best practices for scalable application architecture
+
+## Technical Stack
+
+**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind CSS, HTML5/CSS3  
+**Backend:** Node.js, Express.js, RESTful API design  
+**Database:** PostgreSQL  
+**Tools & Workflow:** Git, GitHub, VS Code, Docker
+
+---
+
+Open to collaboration and always eager to learn from the developer community.
   
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
