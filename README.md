@@ -1,35 +1,16 @@
 # 💜 Hey! I'm Bianca
 
-Full-stack developer focused on building seamless digital experiences through clean code and thoughtful architecture.
+Software Developer at **Profimetrics / ITIM Group** with a passion (almost an obsession) for coding.
 
-Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable software applications.
+## Tech Stack
 
-## What I do
-
-**Frontend Development**  
-Building responsive and intuitive user interfaces with React and Angular. I specialize in component-based architecture and leverage Tailwind CSS for efficient, maintainable styling. My focus is on creating interfaces that are both visually appealing and performant.
-
-**Backend Development**  
-Developing RESTful APIs using Node.js and Express. I design and implement server-side logic with emphasis on scalability, proper error handling, and maintainable code structure. Experience in building secure authentication systems and data validation layers.
-
-**Database**  
-Working with PostgreSQL for data storage and retrieval in web applications. Comfortable with basic CRUD operations and SQL queries.
-
-## Currently expanding my skillset
-
-- Deepening my expertise in Angular framework and advanced TypeScript patterns
-- Learning database design, schema optimization, and query performance with PostgreSQL
-- Exploring advanced state management solutions
-- Understanding best practices for scalable application architecture
-
-## Technical Stack
-
-**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind CSS, HTML5/CSS3  
-**Backend:** Node.js, Express.js, RESTful API design  
-**Database:** PostgreSQL  
-**Tools & Workflow:** Git, GitHub, VS Code, Docker
+**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, PostgreSQL  
+**Tools:** Git, VS Code, Docker
 
 ---
+
+Always coding, always learning 🚀
 
 Open to collaboration and always eager to learn from the developer community.
 
