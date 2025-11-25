@@ -2,7 +2,7 @@
 
 Full-stack developer focused on building seamless digital experiences through clean code and thoughtful architecture.
 
-Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable software applications.
+Currently working as a **Software Developer** at **Profimetrics / ITIM Group**, where I contribute to developing scalable web applications.
 
 ## What I do
 
@@ -12,15 +12,15 @@ Building responsive and intuitive user interfaces with React and Angular. I spec
 **Backend Development**  
 Developing RESTful APIs using Node.js and Express. I design and implement server-side logic with emphasis on scalability, proper error handling, and maintainable code structure. Experience in building secure authentication systems and data validation layers.
 
-**Database Management**  
-Working extensively with PostgreSQL for data modeling, query optimization, and database design. Experienced in designing efficient schemas, writing complex queries, and handling database migrations for production environments.
+**Database**  
+Working with PostgreSQL for data storage and retrieval in web applications. Comfortable with basic CRUD operations and SQL queries.
 
 ## Currently expanding my skillset
 
 - Deepening my expertise in Angular framework and advanced TypeScript patterns
+- Learning database design, schema optimization, and query performance with PostgreSQL
 - Exploring advanced state management solutions
-- Improving database optimization and indexing strategies
-- Learning best practices for scalable application architecture
+- Understanding best practices for scalable application architecture
 
 ## Technical Stack
 
@@ -28,6 +28,10 @@ Working extensively with PostgreSQL for data modeling, query optimization, and d
 **Backend:** Node.js, Express.js, RESTful API design  
 **Database:** PostgreSQL  
 **Tools & Workflow:** Git, GitHub, VS Code, Docker
+
+---
+
+Open to collaboration and always eager to learn from the developer community.
 
 ---
 
